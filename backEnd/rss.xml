@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title><![CDATA[All jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/jobs/rss?api_params=1&amp;orgUid=651708445708668929&amp;paging=0%3B10&amp;q=%28React%20AND%20Node%20AND%20js%20AND%20Express%20AND%20MERN%29%20AND%20%28React%20OR%20Node%20OR%20js%20OR%20javascript%29&amp;securityToken=7ef2a4f1001abebcf4d37460e432a8f38587b1779ce724e0c55cc9d033cfb74a66ab0ecb11c5b1b4f1d0f18d4804cdf2166b7beff5177c255f2f2e1cf637188e&amp;sort=recency&amp;userUid=651708445704474624]]></link><description><![CDATA[All jobs as of December 03, 2023 15:29 UTC]]></description><language>en-us</language><pubDate>Sun, 03 Dec 
+    2023 15:29:12 +0000</pubDate><copyright>© 2003-2023 Upwork Corporation</copyright><docs>http://blogs.law.harvard.edu/tech/rss</docs><generator>Upwork Corporation</generator><managingEditor>rss@upwork.com (Upwork Corporation)</managingEditor><image><url>https://www.upwork.com/images/rss_logo.png</url><title><![CDATA[All jobs | upwork.com]]></title><link><![CDATA[https://www.upwork.com/ab/feed/jobs/rss?api_params=1&amp;orgUid=651708445708668929&amp;paging=0%3B10&amp;q=%28React%20AND%20Node%20AND%20js%20AND%20Express%20AND%20MERN%29%20AND%20%28React%20OR%20Node%20OR%20js%20OR%20javascript%29&amp;securityToken=7ef2a4f1001abebcf4d37460e432a8f38587b1779ce724e0c55cc9d033cfb74a66ab0ecb11c5b1b4f1d0f18d4804cdf2166b7beff5177c255f2f2e1cf637188e&amp;sort=recency&amp;userUid=651708445704474624]]></link></image><item><title><![CDATA[Integrate Meta Marketing API into MERN SaaS - Upwork]]></title><link>https://www.upwork.com/jobs/Integrate-Meta-Marketing-API-into-MERN-SaaS_%7E01569cea334e0ed97a?source=rss</link><description><![CDATA[We are building a marketing SaaS platform with a Node.js (TypeScript) / Express backend, a React / Next.js (TypeScript) frontend and with MongoDB as the database.<br /><br />
+    The next main feature of the product will be to allow users to connect their Meta business accounts and to manage advertising through our platform.<br /><br />
+    We&#039;re looking for someone with previous experience with integrating the Meta APIs into a similar tech stack.<br /><br />Specifically, we&#039;re looking to allow users to login using Facebook via our platform and then to connect to our app. Then, using the Marketing API, manage Campaigns, Adsets and Ads, measuring ad performance to optimise the creatives for the next 
+    set of ads.<br /><br />
+    Ideally, this would be using the facebook-nodejs-business-sdk package, but if dropping into GraphQL directly is needed then that works too.<br /><br />
+    The ideal candidate would be a full-stack developer who can develop the backend and frontend components as well, but the key 
+    skill is expert experience with the Meta SDKs.<br /><br />
+    We are flexible about location and time-zone, our team work async using a project management platform. Excellent written English is a requirement. You&#039;ll be the expert on this aspect of the project, so you&#039;ll need to be able to work independently, and communicate your choices and implementation to other members of the team.<br /><br /><b>Hourly Range</b>: $25.00-$50.00
+    
+    <br /><b>Posted On</b>: December 02, 2023 19:39 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:GraphQL, 
+        TypeScript,     API Integration,     Node.js,     MongoDB
+    <br /><b>Skills</b>:        GraphQL,                     TypeScript,                     API Integration,
+     Node.js,                     MongoDB            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Integrate-Meta-Marketing-API-into-MERN-SaaS_%7E01569cea334e0ed97a?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[We are building a marketing SaaS platform with a Node.js (TypeScript) / Express backend, a React / Next.js (TypeScript) frontend and with MongoDB as the database.<br /><br />
+    The next main feature of the product will be to allow users to connect their Meta business accounts and to manage advertising through our platform.<br /><br />
+    We&#039;re looking for someone with previous experience with integrating the Meta APIs into a similar tech stack.<br /><br />Specifically, we&#039;re looking to allow users to login using Facebook via our platform and then to connect to our app. Then, using the Marketing API, manage Campaigns, Adsets and Ads, measuring ad performance to optimise the creatives for the next 
+    set of ads.<br /><br />
+    Ideally, this would be using the facebook-nodejs-business-sdk package, but if dropping into GraphQL directly is needed then that works too.<br /><br />
+    The ideal candidate would be a full-stack developer who can develop the backend and frontend components as well, but the key 
+    skill is expert experience with the Meta SDKs.<br /><br />
+    We are flexible about location and time-zone, our team work async using a project management platform. Excellent written English is a requirement. You&#039;ll be the expert on this aspect of the project, so you&#039;ll need to be able to work independently, and communicate your choices and implementation to other members of the team.<br /><br /><b>Hourly Range</b>: $25.00-$50.00
+    
+    <br /><b>Posted On</b>: December 02, 2023 19:39 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:GraphQL, 
+        TypeScript,     API Integration,     Node.js,     MongoDB
+    <br /><b>Skills</b>:        GraphQL,                     TypeScript,                     API Integration,
+     Node.js,                     MongoDB            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Integrate-Meta-Marketing-API-into-MERN-SaaS_%7E01569cea334e0ed97a?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Sat, 02 Dec 2023 19:39:34 +0000</pubDate><guid>https://www.upwork.com/jobs/Integrate-Meta-Marketing-API-into-MERN-SaaS_%7E01569cea334e0ed97a?source=rss</guid></item><item><title><![CDATA[Need MERN Stack Developer for E-commerce Website - Upwork]]></title><link>https://www.upwork.com/jobs/Need-MERN-Stack-Developer-for-commerce-Website_%7E0170bcff36f2cc0d44?source=rss</link><description><![CDATA[I need an Expert Developer for MERN Stack. I have the website completed the only modules that are&nbsp;&nbsp;left with are Payment gateway and booking. I need somebody who can do this for me quickly so I can get my website up and running. Further Details about the website will be given on chat.<br /><br /><b>Budget</b>: $150
+    <br /><b>Posted On</b>: December 01, 2023 18:33 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     JavaScript,     Web Development,     MongoDB,     ExpressJS
+    <br /><b>Skills</b>:        React,                     Node.js,                     JavaScript,                     Web Development,                     MongoDB,                     ExpressJS            <br /><b>Country</b>: Pakistan
+    <br /><a href="https://www.upwork.com/jobs/Need-MERN-Stack-Developer-for-commerce-Website_%7E0170bcff36f2cc0d44?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[I need an Expert Developer for MERN Stack. I have the website completed the only modules that are&nbsp;&nbsp;left with are Payment gateway and booking. I need somebody who can do this for me quickly so I can get my website up and running. Further Details about the website will be given on chat.<br /><br /><b>Budget</b>: $150      
+    <br /><b>Posted On</b>: December 01, 2023 18:33 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     JavaScript,     Web Development,     MongoDB,     ExpressJS
+    <br /><b>Skills</b>:        React,                     Node.js,                     JavaScript,                     Web Development,                     MongoDB,                     ExpressJS            <br /><b>Country</b>: Pakistan
+    <br /><a href="https://www.upwork.com/jobs/Need-MERN-Stack-Developer-for-commerce-Website_%7E0170bcff36f2cc0d44?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Fri, 01 Dec 2023 18:33:13 +0000</pubDate><guid>https://www.upwork.com/jobs/Need-MERN-Stack-Developer-for-commerce-Website_%7E0170bcff36f2cc0d44?source=rss</guid></item><item><title><![CDATA[Experienced MERN Stack Developer Needed to Fix Application Bug - Upwork]]></title><link>https://www.upwork.com/jobs/Experienced-MERN-Stack-Developer-Needed-Fix-Application-Bug_%7E0144d790cbcd6f6545?source=rss</link><description><![CDATA[We&#039;re in search of an experienced MERN stack developer to tackle a bug in our application. The ideal candidate should possess strong expertise in MongoDB, Express.js, React.js, and Node.js, with a proven track record in troubleshooting and resolving software issues. Responsibilities include bug identification, collaboration with the development team, implementing effective solutions, conducting thorough testing, and contributing to documentation. If you&#039;re a skilled MERN developer with a focus on detail and a commitment to delivering quality solutions, we encourage you to apply, providing examples of previous work and detailing your bug-fixing experience. We look forward to reviewing your proposals.<br /><br /><b>Budget</b>: $10
+    <br /><b>Posted On</b>: December 01, 2023 14:08 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     MongoDB,     JavaScript,     ExpressJS,     Web Development,     API Integration,     Bug Fix
+    <br /><b>Skills</b>:        React,                     Node.js,                     MongoDB,                     JavaScript, 
+                        ExpressJS,                     Web Development,                     API Integration,
+    Bug Fix            <br /><b>Country</b>: Pakistan
+    <br /><a href="https://www.upwork.com/jobs/Experienced-MERN-Stack-Developer-Needed-Fix-Application-Bug_%7E0144d790cbcd6f6545?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[We&#039;re in search of an experienced MERN stack developer to tackle a bug in our application. The ideal candidate should possess strong expertise in MongoDB, Express.js, React.js, and Node.js, with a proven track record in troubleshooting and resolving software issues. Responsibilities include bug identification, collaboration with the development team, implementing effective solutions, conducting thorough testing, and contributing to documentation. If you&#039;re a skilled MERN developer with a focus on detail and a commitment to delivering quality solutions, we encourage 
+    you to apply, providing examples of previous work and detailing your bug-fixing experience. We look forward to reviewing your proposals.<br /><br /><b>Budget</b>: $10
+    <br /><b>Posted On</b>: December 01, 2023 14:08 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     MongoDB,     JavaScript,     ExpressJS,     Web Development,     API Integration,     Bug Fix
+    <br /><b>Skills</b>:        React,                     Node.js,                     MongoDB,                     JavaScript, 
+                        ExpressJS,                     Web Development,                     API Integration,
+    Bug Fix            <br /><b>Country</b>: Pakistan
+    <br /><a href="https://www.upwork.com/jobs/Experienced-MERN-Stack-Developer-Needed-Fix-Application-Bug_%7E0144d790cbcd6f6545?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Fri, 01 Dec 2023 14:08:50 +0000</pubDate><guid>https://www.upwork.com/jobs/Experienced-MERN-Stack-Developer-Needed-Fix-Application-Bug_%7E0144d790cbcd6f6545?source=rss</guid></item><item><title><![CDATA[MERN Stack and Next.js Expert (Long Term Role) - Upwork]]></title><link>https://www.upwork.com/jobs/MERN-Stack-and-Next-Expert-Long-Term-Role_%7E0123ea2cb500ac6827?source=rss</link><description><![CDATA[We are seeking an organized, dynamic, and highly responsive Remote Executive Assistant to provide comprehensive support to the Directors. This is a full-time position that includes elements of meeting coordination, content creation, real-time support, research, and HR functions, aimed at facilitating seamless day-to-day operations.<br /><br />
+    Responsibilities:<br /><br />
+    Design and implement efficient and scalable web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br />
+    Develop responsive user interfaces using Next.js for optimal performance.<br />
+    Collaborate with cross-functional teams to define, design, and ship new features.<br />
+    Optimize applications for maximum speed and scalability.<br />
+    Stay up-to-date with the latest industry trends and technologies to ensure the best practices are being used.<br /><br />    
+    Requirements:<br /><br />
+    Proven experience as a MERN Stack Developer with expertise in Next.js.<br />
+    Solid understanding of the full web development process, from architecture to deployment.<br />
+    Experience with MongoDB, Express.js, React.js, and Node.js.<br />
+    Familiarity with state management libraries such as Redux.<br />
+    Strong understanding of front-end technologies, including HTML5, CSS3, and JavaScript.<br />
+    Excellent problem-solving and communication skills.<br />
+    Ability to work both independently and collaboratively in a fast-paced environment.<br /><br />
+    Nice to Have:<br /><br />
+    Knowledge of Python, Django, GraphQL.<br />
+    Experience with testing frameworks (Jest, Enzyme, etc.)<br /><br />
+    Benefits:<br /><br />
+    Competitive salary.<br />
+    Flexible working hours.<br />
+    Opportunities for professional growth and development.<br />
+    Collaborative and inclusive work environment.<br /><br /><br /><br /><br /><b>Hourly Range</b>: $10.00-$15.00
+    
+    <br /><b>Posted On</b>: December 01, 2023 13:29 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Next.js, 
+        Python,     GraphQL,     Django,     MongoDB,     MERN Stack,     Node.js,     HTML,     CSS,     LangChain
+    <br /><b>Skills</b>:        Next.js,                     Python,                     GraphQL,                     Django,    
+                     MongoDB,                     MERN Stack,                     Node.js,                     HTML,
+            CSS,                     LangChain            <br /><b>Country</b>: Saudi Arabia
+    <br /><a href="https://www.upwork.com/jobs/MERN-Stack-and-Next-Expert-Long-Term-Role_%7E0123ea2cb500ac6827?source=rss">click 
+    to apply</a>
+    ]]></description><content:encoded><![CDATA[We are seeking an organized, dynamic, and highly responsive Remote Executive Assistant to provide comprehensive support to the Directors. This is a full-time position that includes elements of meeting coordination, content creation, real-time support, research, and HR functions, aimed at facilitating seamless day-to-day operations.<br /><br />
+    Responsibilities:<br /><br />
+    Design and implement efficient and scalable web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br />
+    Develop responsive user interfaces using Next.js for optimal performance.<br />
+    Collaborate with cross-functional teams to define, design, and ship new features.<br />
+    Optimize applications for maximum speed and scalability.<br />
+    Stay up-to-date with the latest industry trends and technologies to ensure the best practices are being used.<br /><br />    
+    Requirements:<br /><br />
+    Proven experience as a MERN Stack Developer with expertise in Next.js.<br />
+    Solid understanding of the full web development process, from architecture to deployment.<br />
+    Experience with MongoDB, Express.js, React.js, and Node.js.<br />
+    Familiarity with state management libraries such as Redux.<br />
+    Strong understanding of front-end technologies, including HTML5, CSS3, and JavaScript.<br />
+    Excellent problem-solving and communication skills.<br />
+    Ability to work both independently and collaboratively in a fast-paced environment.<br /><br />
+    Nice to Have:<br /><br />
+    Knowledge of Python, Django, GraphQL.<br />
+    Experience with testing frameworks (Jest, Enzyme, etc.)<br /><br />
+    Benefits:<br /><br />
+    Competitive salary.<br />
+    Flexible working hours.<br />
+    Opportunities for professional growth and development.<br />
+    Collaborative and inclusive work environment.<br /><br /><br /><br /><br /><b>Hourly Range</b>: $10.00-$15.00
+    
+    <br /><b>Posted On</b>: December 01, 2023 13:29 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Next.js, 
+        Python,     GraphQL,     Django,     MongoDB,     MERN Stack,     Node.js,     HTML,     CSS,     LangChain
+    <br /><b>Skills</b>:        Next.js,                     Python,                     GraphQL,                     Django,    
+                     MongoDB,                     MERN Stack,                     Node.js,                     HTML,
+            CSS,                     LangChain            <br /><b>Country</b>: Saudi Arabia
+    <br /><a href="https://www.upwork.com/jobs/MERN-Stack-and-Next-Expert-Long-Term-Role_%7E0123ea2cb500ac6827?source=rss">click 
+    to apply</a>
+    ]]></content:encoded><pubDate>Fri, 01 Dec 2023 13:29:35 +0000</pubDate><guid>https://www.upwork.com/jobs/MERN-Stack-and-Next-Expert-Long-Term-Role_%7E0123ea2cb500ac6827?source=rss</guid></item><item><title><![CDATA[Developer Needed - Upwork]]></title><link>https://www.upwork.com/jobs/Developer-Needed_%7E0119a04a2dc51dd0c8?source=rss</link><description><![CDATA[Job Description:<br />
+    We are seeking an experienced and highly skilled Freelance Full-Stack Developer to join our team and contribute to the development of a cutting-edge tech content web application. The primary focus of this role is to design, implement, and maintain various features of the application, ensuring seamless integration of blog posts, audio podcast content, and affiliate program 
+    links. The successful candidate will be proficient in a range of technologies, with a strong emphasis on AWS Cloud, CI/CD Pipelines, back-end server technologies, and web security principles<br /><br />
+    Key Responsibilities:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Collaborate with the project team to understand requirements and translate them into technical specifications.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Develop and maintain the back-end server infrastructure to support the application&#039;s core features.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Implement and optimize CI/CD pipelines for efficient and automated deployment processes.<br />       
+    &nbsp;&nbsp;&nbsp;&nbsp;Ensure the security of the web application by applying web security principles and best practices.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Integrate and manage blog post and audio podcast content, ensuring a seamless and user-friendly experience.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Incorporate affiliate program links and track performance metrics for analysis and improvement.<br />&nbsp;&nbsp;&nbsp;&nbsp;Troubleshoot and resolve technical issues as they arise, providing timely support and solutions.<br /><br />
+    Skills and Qualifications:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;AWS Cloud:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in AWS services, including but not limited to EC2, S3, Lambda, and RDS.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in deploying and managing applications on AWS Cloud.<br /><br />  
+    &nbsp;&nbsp;&nbsp;&nbsp;CI/CD Pipelines:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise in designing and implementing Continuous Integration and Continuous Deployment pipelines.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with tools such as Jenkins, GitLab CI, or AWS CodePipeline.<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Back-end Server Technologies:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong proficiency in back-end development languages such as Node.js, Python, or Ruby.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with server frameworks like Express, Django, or Ruby on Rails.<br 
+    /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Web Security Principles:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In-depth knowledge of web security best practices and principles.<br />      
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience implementing security measures to protect against common web vulnerabilities.<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;General Skills:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent problem-solving and troubleshooting abilities.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong communication and collaboration skills.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to work independently and meet project deadlines.<br /><br />        
+    Education and Experience:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Bachelor&rsquo;s degree in Computer Science, Engineering, or a related field.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Proven experience as a Full-Stack Developer with a focus on web application development.<br />       
+    &nbsp;&nbsp;&nbsp;&nbsp;Demonstrated success in deploying and maintaining applications on AWS.<br /><br /><br /><b>Posted On</b>: December 01, 2023 01:13 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:JavaScript,     React,     Node.js,     Next.js,     TypeScript,     Bootstrap,     ExpressJS,     CSS,     HTML,     MongoDB,     SQL,     NestJS,     Redux,     MERN Stack,     Firebase
+    <br /><b>Skills</b>:        JavaScript,                     React,                     Node.js,                     Next.js, 
+                        TypeScript,                     Bootstrap,                     ExpressJS,                     CSS,       
+                  HTML,                     MongoDB,                     SQL,                     NestJS,                     Redux,                     MERN Stack,                     Firebase            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Developer-Needed_%7E0119a04a2dc51dd0c8?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[Job Description:<br />
+    We are seeking an experienced and highly skilled Freelance Full-Stack Developer to join our team and contribute to the development of a cutting-edge tech content web application. The primary focus of this role is to design, implement, and maintain various features of the application, ensuring seamless integration of blog posts, audio podcast content, and affiliate program 
+    links. The successful candidate will be proficient in a range of technologies, with a strong emphasis on AWS Cloud, CI/CD Pipelines, back-end server technologies, and web security principles<br /><br />
+    Key Responsibilities:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Collaborate with the project team to understand requirements and translate them into technical specifications.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Develop and maintain the back-end server infrastructure to support the application&#039;s core features.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Implement and optimize CI/CD pipelines for efficient and automated deployment processes.<br />       
+    &nbsp;&nbsp;&nbsp;&nbsp;Ensure the security of the web application by applying web security principles and best practices.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Integrate and manage blog post and audio podcast content, ensuring a seamless and user-friendly experience.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Incorporate affiliate program links and track performance metrics for analysis and improvement.<br />&nbsp;&nbsp;&nbsp;&nbsp;Troubleshoot and resolve technical issues as they arise, providing timely support and solutions.<br /><br />
+    Skills and Qualifications:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;AWS Cloud:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in AWS services, including but not limited to EC2, S3, Lambda, and RDS.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in deploying and managing applications on AWS Cloud.<br /><br />  
+    &nbsp;&nbsp;&nbsp;&nbsp;CI/CD Pipelines:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expertise in designing and implementing Continuous Integration and Continuous Deployment pipelines.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Familiarity with tools such as Jenkins, GitLab CI, or AWS CodePipeline.<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Back-end Server Technologies:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong proficiency in back-end development languages such as Node.js, Python, or Ruby.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with server frameworks like Express, Django, or Ruby on Rails.<br 
+    /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Web Security Principles:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In-depth knowledge of web security best practices and principles.<br />      
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience implementing security measures to protect against common web vulnerabilities.<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;General Skills:<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excellent problem-solving and troubleshooting abilities.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strong communication and collaboration skills.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to work independently and meet project deadlines.<br /><br />        
+    Education and Experience:<br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Bachelor&rsquo;s degree in Computer Science, Engineering, or a related field.<br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Proven experience as a Full-Stack Developer with a focus on web application development.<br />       
+    &nbsp;&nbsp;&nbsp;&nbsp;Demonstrated success in deploying and maintaining applications on AWS.<br /><br /><br /><b>Posted On</b>: December 01, 2023 01:13 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:JavaScript,     React,     Node.js,     Next.js,     TypeScript,     Bootstrap,     ExpressJS,     CSS,     HTML,     MongoDB,     SQL,     NestJS,     Redux,     MERN Stack,     Firebase
+    <br /><b>Skills</b>:        JavaScript,                     React,                     Node.js,                     Next.js, 
+                        TypeScript,                     Bootstrap,                     ExpressJS,                     CSS,       
+                  HTML,                     MongoDB,                     SQL,                     NestJS,                     Redux,                     MERN Stack,                     Firebase            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Developer-Needed_%7E0119a04a2dc51dd0c8?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Fri, 01 Dec 2023 01:13:31 +0000</pubDate><guid>https://www.upwork.com/jobs/Developer-Needed_%7E0119a04a2dc51dd0c8?source=rss</guid></item><item><title><![CDATA[Temporary employment agency And scheduling system - Upwork]]></title><link>https://www.upwork.com/jobs/Temporary-employment-agency-And-scheduling-system_%7E013cfe59f42b5db936?source=rss</link><description><![CDATA[The app I wanted to develop is serves as a digital marketplace where businesses can post temporary or part-time job vacancies, specifying details such as job requirements, shift timings, and pay rates. On the other side, 
+    individuals looking for flexible work can create profiles highlighting their skills, experience, and availability. The app&#039;s algorithm matches suitable candidates to job postings based on their profiles and preferences.<br /><br />
+    For businesses, my app streamlines the hiring process by providing access to a pool of pre-vetted candidates, allowing them to fill positions promptly and efficiently, especially during peak times or when facing staff shortages.<br /><br />
+    Workers benefit from the flexibility to choose assignments that fit their schedule, gain diverse work experience across various industries, and receive payment through the app after completing jobs.<br /><br />
+    Overall, my app acts as a bridge between businesses seeking temporary workers and individuals looking for flexible work arrangements, providing a convenient platform for both parties to connect and collaborate.<br /><br /><br /><b>Posted On</b>: November 30, 2023 23:41 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:MEAN Stack,     MERN Stack,     MongoDB,     ExpressJS,     React,     Node.js,     Web Application,     Flutter,     Dart,     Mobile App,     Mobile App Development,     Docker,     Kubernetes,     Next.js,     CoffeeScript
+    <br /><b>Skills</b>:        MEAN Stack,                     MERN Stack,                     MongoDB,                     ExpressJS,                     React,                     Node.js,                     Web Application,                     Flutter,                     Dart,                     Mobile App,                     Mobile App Development,
+     Docker,                     Kubernetes,                     Next.js,                     CoffeeScript            <br /><b>Country</b>: United Kingdom
+    <br /><a href="https://www.upwork.com/jobs/Temporary-employment-agency-And-scheduling-system_%7E013cfe59f42b5db936?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[The app I wanted to develop is serves as a digital marketplace where businesses can post temporary or part-time job vacancies, specifying details such as job requirements, shift timings, and pay rates. On the other side, individuals looking for flexible work can create profiles highlighting their skills, experience, and availability. The app&#039;s algorithm matches suitable candidates to job postings based on their profiles and preferences.<br /><br />For businesses, my app streamlines the hiring process by providing access to a pool of pre-vetted candidates, allowing them to fill positions promptly and efficiently, especially during peak times or when facing staff shortages.<br /><br />
+    Workers benefit from the flexibility to choose assignments that fit their schedule, gain diverse work experience across various industries, and receive payment through the app after completing jobs.<br /><br />
+    Overall, my app acts as a bridge between businesses seeking temporary workers and individuals looking for flexible work arrangements, providing a convenient platform for both parties to connect and collaborate.<br /><br /><br /><b>Posted On</b>: November 30, 2023 23:41 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:MEAN Stack,     MERN Stack,     MongoDB,     ExpressJS,     React,     Node.js,     Web Application,     Flutter,     Dart,     Mobile App,     Mobile App Development,     Docker,     Kubernetes,     Next.js,     CoffeeScript
+    <br /><b>Skills</b>:        MEAN Stack,                     MERN Stack,                     MongoDB,                     ExpressJS,                     React,                     Node.js,                     Web Application,                     Flutter,                     Dart,                     Mobile App,                     Mobile App Development,
+     Docker,                     Kubernetes,                     Next.js,                     CoffeeScript            <br /><b>Country</b>: United Kingdom
+    <br /><a href="https://www.upwork.com/jobs/Temporary-employment-agency-And-scheduling-system_%7E013cfe59f42b5db936?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Thu, 30 Nov 2023 23:41:17 +0000</pubDate><guid>https://www.upwork.com/jobs/Temporary-employment-agency-And-scheduling-system_%7E013cfe59f42b5db936?source=rss</guid></item><item><title><![CDATA[Screen Counter - Live Social Stat Display - Upwork]]></title><link>https://www.upwork.com/jobs/Screen-Counter-Live-Social-Stat-Display_%7E013c40984a687777fd?source=rss</link><description><![CDATA[Attached is a copy of the scope of work we discussed today along with mockup. Thanks for your help!<br /><br /><b>Budget</b>: $200
+    <br /><b>Posted On</b>: November 30, 2023 22:29 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React Bootstrap,     Back-End Development,     Front-End Development,     Python,     SQL,     React,     MERN Stack,     WordPress,  
+       CSS 3,     JavaScript,     Vue.js,     Laravel,     Node.js,     Algorithm Development,     ExpressJS
+    <br /><b>Skills</b>:        React Bootstrap,                     Back-End Development,                     Front-End Development,                     Python,                     SQL,                     React,                     MERN Stack,
+                WordPress,                     CSS 3,                     JavaScript,                     Vue.js,
+         Laravel,                     Node.js,                     Algorithm Development,                     ExpressJS
+      <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Screen-Counter-Live-Social-Stat-Display_%7E013c40984a687777fd?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[Attached is a copy of the scope of work we discussed today along with mockup. Thanks for your help!<br /><br /><b>Budget</b>: $200
+    <br /><b>Posted On</b>: November 30, 2023 22:29 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React Bootstrap,     Back-End Development,     Front-End Development,     Python,     SQL,     React,     MERN Stack,     WordPress,  
+       CSS 3,     JavaScript,     Vue.js,     Laravel,     Node.js,     Algorithm Development,     ExpressJS
+    <br /><b>Skills</b>:        React Bootstrap,                     Back-End Development,                     Front-End Development,                     Python,                     SQL,                     React,                     MERN Stack,
+                WordPress,                     CSS 3,                     JavaScript,                     Vue.js,
+         Laravel,                     Node.js,                     Algorithm Development,                     ExpressJS
+      <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Screen-Counter-Live-Social-Stat-Display_%7E013c40984a687777fd?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Thu, 30 Nov 2023 22:29:28 +0000</pubDate><guid>https://www.upwork.com/jobs/Screen-Counter-Live-Social-Stat-Display_%7E013c40984a687777fd?source=rss</guid></item><item><title><![CDATA[Flutter App development and maintenance - Upwork]]></title><link>https://www.upwork.com/jobs/Flutter-App-development-and-maintenance_%7E011fc43bc9590d369a?source=rss</link><description><![CDATA[Introduction to mi-app: A Flutter MERN Stack Project<br /><br />
+    Overview<br /><br />
+    mi-app is a cutting-edge mobile application built using Flutter and the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
+    The app is already live but we are continuously working to fine-tune, tweak, and extend its functionality to provide an exceptional user experience.<br /><br />
+    Features<br /><br />
+    Admin Panel<br /><br />
+    mi-app includes a powerful admin panel that allows administrators to manage various aspects of the application. Admins have the ability to add custom invite videos and other media content that can be easily shared with contacts via SMS.&nbsp;&nbsp;This is completed for the major features looking to add badges and a way to add categories to the invites.<br /><br />
+    Custom Invite Videos<br /><br />
+    The admin panel enables administrators to upload and manage custom invite videos. These videos can be tailored to suit specific campaigns or branding requirements. With just a few clicks, admins can select the desired video and share it with their contacts.<br /><br />
+    SMS Integration<br /><br />
+    mi-app integrates seamlessly with SMS services, allowing users to share invite videos and media content directly with their contacts. By leveraging SMS as a communication channel, mi-app ensures widespread reach and engagement with its target audience.<br /><br />
+    Advanced Tracking Capabilities<br /><br />
+    The app offers advanced tracking capabilities to gather valuable insights into user engagement. It tracks various events such as when a prospect clicks the shared link, starts watching the video, completes the video, and even when they click on a specific button on the landing page. This data empowers administrators to measure the effectiveness of their campaigns and make 
+    data-driven decisions.<br /><br />
+    Future Extensions<br /><br />
+    We are committed to continuously improving mi-app and expanding its functionality. Some of the future extensions we are considering include:<br /><br />
+    - Enhancing the admin panel for more intuitive content management.<br />
+    - Introducing additional sharing options, such as email or social media platforms.<br />
+    - Implementing user analytics to gain deeper insights into user behavior.<br />
+    - Integrating third-party APIs for enhanced functionality and integrations.<br /><br /><br />
+    mi-app is an innovative mobile application built with Flutter and the MERN stack. Its focus on providing a seamless user experience, along with the powerful admin panel and advanced tracking capabilities, sets it apart from other applications in the 
+    market. We are dedicated to refining and expanding mi-app to meet the evolving needs of our users and provide a truly exceptional experience.<br /><br /><br /><b>Posted On</b>: November 30, 2023 18:17 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:Hybrid App Development,     User Authentication,     Social Media Account Integration,     Chat &amp; Messaging Software,     API Integration,     Push Notifications,     Click-to-Call,     Flutter,     Android,     iOS
+    <br /><b>Skills</b>:        Hybrid App Development,                     User Authentication,                     Social Media Account Integration,                     Chat &amp; Messaging Software,                     API Integration,
+         Push Notifications,                     Click-to-Call,                     Flutter,                     Android,        
+                 iOS            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Flutter-App-development-and-maintenance_%7E011fc43bc9590d369a?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[Introduction to mi-app: A Flutter MERN Stack Project<br /><br />
+    Overview<br /><br />
+    mi-app is a cutting-edge mobile application built using Flutter and the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
+    The app is already live but we are continuously working to fine-tune, tweak, and extend its functionality to provide an exceptional user experience.<br /><br />
+    Features<br /><br />
+    Admin Panel<br /><br />
+    mi-app includes a powerful admin panel that allows administrators to manage various aspects of the application. Admins have the ability to add custom invite videos and other media content that can be easily shared with contacts via SMS.&nbsp;&nbsp;This is completed for the major features looking to add badges and a way to add categories to the invites.<br /><br />
+    Custom Invite Videos<br /><br />
+    The admin panel enables administrators to upload and manage custom invite videos. These videos can be tailored to suit specific campaigns or branding requirements. With just a few clicks, admins can select the desired video and share it with their contacts.<br /><br />
+    SMS Integration<br /><br />
+    mi-app integrates seamlessly with SMS services, allowing users to share invite videos and media content directly with their contacts. By leveraging SMS as a communication channel, mi-app ensures widespread reach and engagement with its target audience.<br /><br />
+    Advanced Tracking Capabilities<br /><br />
+    The app offers advanced tracking capabilities to gather valuable insights into user engagement. It tracks various events such as when a prospect clicks the shared link, starts watching the video, completes the video, and even when they click on a specific button on the landing page. This data empowers administrators to measure the effectiveness of their campaigns and make 
+    data-driven decisions.<br /><br />
+    Future Extensions<br /><br />
+    We are committed to continuously improving mi-app and expanding its functionality. Some of the future extensions we are considering include:<br /><br />
+    - Enhancing the admin panel for more intuitive content management.<br />
+    - Introducing additional sharing options, such as email or social media platforms.<br />
+    - Implementing user analytics to gain deeper insights into user behavior.<br />
+    - Integrating third-party APIs for enhanced functionality and integrations.<br /><br /><br />
+    mi-app is an innovative mobile application built with Flutter and the MERN stack. Its focus on providing a seamless user experience, along with the powerful admin panel and advanced tracking capabilities, sets it apart from other applications in the 
+    market. We are dedicated to refining and expanding mi-app to meet the evolving needs of our users and provide a truly exceptional experience.<br /><br /><br /><b>Posted On</b>: November 30, 2023 18:17 UTC<br /><b>Category</b>: Mobile App Development<br /><b>Skills</b>:Hybrid App Development,     User Authentication,     Social Media Account Integration,     Chat &amp; Messaging Software,     API Integration,     Push Notifications,     Click-to-Call,     Flutter,     Android,     iOS
+    <br /><b>Skills</b>:        Hybrid App Development,                     User Authentication,                     Social Media Account Integration,                     Chat &amp; Messaging Software,                     API Integration,
+         Push Notifications,                     Click-to-Call,                     Flutter,                     Android,        
+                 iOS            <br /><b>Country</b>: United States
+    <br /><a href="https://www.upwork.com/jobs/Flutter-App-development-and-maintenance_%7E011fc43bc9590d369a?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Thu, 30 Nov 2023 18:17:13 +0000</pubDate><guid>https://www.upwork.com/jobs/Flutter-App-development-and-maintenance_%7E011fc43bc9590d369a?source=rss</guid></item><item><title><![CDATA[Full Stack MERN Stack Front End Developer - Upwork]]></title><link>https://www.upwork.com/jobs/Full-Stack-MERN-Stack-Front-End-Developer_%7E01bcdf7af96cede76f?source=rss</link><description><![CDATA[About Webelocity<br /><br />
+    Webelocity is a dynamic and innovative web design and development agency based in Ontario, Canada. We specialize in providing cutting-edge open-source eCommerce solutions to B2B and B2C clients. As an esteemed digital advisor for the Canada Digital Adoption Program, our core mission is to empower SMEs by leveraging advanced technology and our industry expertise. We are known for delivering exceptional results and our team&#039;s passion for eCommerce and emerging technologies.<br /><br />       
+    Role Overview<br />
+    We are seeking a skilled MERN Stack Developer to join our dynamic team. The ideal candidate will have a deep understanding of the MERN stack (MongoDB, Express.js, React, Node.js) and be proficient in building scalable web applications. If you are passionate about web development and are looking for a challenging role where you can make a significant impact, we want to hear from you.<br /><br />
+    Key Responsibilities:<br />
+    - Develop and maintain web applications using the MERN stack.<br />
+    - Collaborate with cross-functional teams to define, design, and ship new features.<br />
+    - Ensure the performance, quality, and responsiveness of applications.<br />
+    - Identify and correct bottlenecks and fix bugs.<br />
+    - Stay up-to-date with the latest industry trends and technologies.<br /><br />
+    Essential Skills:<br />
+    1. Strong proficiency in React, especially React hooks.<br />
+    2. Expertise in using the JavaScript map() function for mapping data and front-end components.<br />
+    3. Proficient understanding of state management, especially Redux.<br />
+    4. Experience with form validations and data value processing.<br />
+    5. Some knowledge in making HTTP requests using Axios.<br />
+    6. Familiarity with MongoDB, Express.js, and Node.js.<br /><br />
+    Webelocity is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.<br /><br />
+    N.B: Applications must be sent via Upwork only; otherwise, they will be rejected.<br /><br /><b>Hourly Range</b>: $5.00-$15.00
+    
+    <br /><b>Posted On</b>: November 30, 2023 17:45 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     JavaScript,     Web Application,     CSS,     AngularJS,     Bootstrap,     MongoDB,     HTML,     ExpressJS  
+    
+    <br /><b>Skills</b>:        React,                     Node.js,                     JavaScript,                     Web Application,                     CSS,                     AngularJS,                     Bootstrap,                     MongoDB,  
+                       HTML,                     ExpressJS            <br /><b>Country</b>: Canada
+    <br /><a href="https://www.upwork.com/jobs/Full-Stack-MERN-Stack-Front-End-Developer_%7E01bcdf7af96cede76f?source=rss">click 
+    to apply</a>
+    ]]></description><content:encoded><![CDATA[About Webelocity<br /><br />
+    Webelocity is a dynamic and innovative web design and development agency based in Ontario, Canada. We specialize in providing cutting-edge open-source eCommerce solutions to B2B and B2C clients. As an esteemed digital advisor for the Canada Digital Adoption Program, our core mission is to empower SMEs by leveraging advanced technology and our industry expertise. We are known for delivering exceptional results and our team&#039;s passion for eCommerce and emerging technologies.<br /><br />       
+    Role Overview<br />
+    We are seeking a skilled MERN Stack Developer to join our dynamic team. The ideal candidate will have a deep understanding of the MERN stack (MongoDB, Express.js, React, Node.js) and be proficient in building scalable web applications. If you are passionate about web development and are looking for a challenging role where you can make a significant impact, we want to hear from you.<br /><br />
+    Key Responsibilities:<br />
+    - Develop and maintain web applications using the MERN stack.<br />
+    - Collaborate with cross-functional teams to define, design, and ship new features.<br />
+    - Ensure the performance, quality, and responsiveness of applications.<br />
+    - Identify and correct bottlenecks and fix bugs.<br />
+    - Stay up-to-date with the latest industry trends and technologies.<br /><br />
+    Essential Skills:<br />
+    1. Strong proficiency in React, especially React hooks.<br />
+    2. Expertise in using the JavaScript map() function for mapping data and front-end components.<br />
+    3. Proficient understanding of state management, especially Redux.<br />
+    4. Experience with form validations and data value processing.<br />
+    5. Some knowledge in making HTTP requests using Axios.<br />
+    6. Familiarity with MongoDB, Express.js, and Node.js.<br /><br />
+    Webelocity is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.<br /><br />
+    N.B: Applications must be sent via Upwork only; otherwise, they will be rejected.<br /><br /><b>Hourly Range</b>: $5.00-$15.00
+    
+    <br /><b>Posted On</b>: November 30, 2023 17:45 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:React,   
+      Node.js,     JavaScript,     Web Application,     CSS,     AngularJS,     Bootstrap,     MongoDB,     HTML,     ExpressJS  
+    
+    <br /><b>Skills</b>:        React,                     Node.js,                     JavaScript,                     Web Application,                     CSS,                     AngularJS,                     Bootstrap,                     MongoDB,  
+                       HTML,                     ExpressJS            <br /><b>Country</b>: Canada
+    <br /><a href="https://www.upwork.com/jobs/Full-Stack-MERN-Stack-Front-End-Developer_%7E01bcdf7af96cede76f?source=rss">click 
+    to apply</a>
+    ]]></content:encoded><pubDate>Thu, 30 Nov 2023 17:45:30 +0000</pubDate><guid>https://www.upwork.com/jobs/Full-Stack-MERN-Stack-Front-End-Developer_%7E01bcdf7af96cede76f?source=rss</guid></item><item><title><![CDATA[Full Stack MERN with exp with Tailwind, React - Upwork]]></title><link>https://www.upwork.com/jobs/Full-Stack-MERN-with-exp-with-Tailwind-React_%7E01aea69e6dc611ecf2?source=rss</link><description><![CDATA[We are building an app that involves customer bidding, installation management and product catalog. This project requires someone to pickup the project midway as the developer involved has been injured, but is helping with transitioning the project.<br /><br />
+    We are building the application in React Application that is mobile responsive.<br /><br />
+    We are seeking an experienced Full Stack MERN Developer with expertise in Tailwind CSS to join our team on Upwork. The ideal 
+    candidate should be proficient in the MERN stack, capable of managing and enhancing existing projects, and possess a strong command of Tailwind CSS for creating efficient and visually appealing user interfaces.<br /><br />
+    Technical Skills:<br />
+    Proficient in MongoDB, Express.js, React, Node.js.<br />
+    Expertise in Tailwind CSS for UI development.<br />
+    Experience with front-end technologies such as HTML, CSS, and JavaScript.<br />
+    Familiarity with version control systems (e.g., Git).<br /><br />
+    Problem Solving:<br />
+    Identify and resolve technical issues promptly.<br />
+    Work closely with cross-functional teams to address challenges and improve project efficiency.<br /><br />
+    Requirements:<br />
+    Proven experience as a Full Stack MERN Developer with a strong portfolio.<br />
+    Solid understanding of project management principles.<br />
+    Proficiency in Tailwind CSS for UI development.<br />
+    Effective communication skills.<br />
+    Ability to work independently and collaboratively within a team.<br /><br />
+    Experience Review:<br />
+    Please share experiences on low code, react, tailwind applications you have built and user management journeys. <br /><br /><br /><b>Posted On</b>: November 29, 2023 18:37 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Git,     Node.js,     React,     MongoDB,     React Native,     Tailwind CSS,     Tailwind UI,     API Integration
+    <br /><b>Skills</b>:        Git,                     Node.js,                     React,                     MongoDB,        
+                 React Native,                     Tailwind CSS,                     Tailwind UI,                     API Integration            <br /><b>Country</b>: Canada
+    <br /><a href="https://www.upwork.com/jobs/Full-Stack-MERN-with-exp-with-Tailwind-React_%7E01aea69e6dc611ecf2?source=rss">click to apply</a>
+    ]]></description><content:encoded><![CDATA[We are building an app that involves customer bidding, installation management and product catalog. This project requires someone to pickup the project midway as the developer involved has been injured, but 
+    is helping with transitioning the project.<br /><br />
+    We are building the application in React Application that is mobile responsive.<br /><br />
+    We are seeking an experienced Full Stack MERN Developer with expertise in Tailwind CSS to join our team on Upwork. The ideal 
+    candidate should be proficient in the MERN stack, capable of managing and enhancing existing projects, and possess a strong command of Tailwind CSS for creating efficient and visually appealing user interfaces.<br /><br />
+    Technical Skills:<br />
+    Proficient in MongoDB, Express.js, React, Node.js.<br />
+    Expertise in Tailwind CSS for UI development.<br />
+    Experience with front-end technologies such as HTML, CSS, and JavaScript.<br />
+    Familiarity with version control systems (e.g., Git).<br /><br />
+    Problem Solving:<br />
+    Identify and resolve technical issues promptly.<br />
+    Work closely with cross-functional teams to address challenges and improve project efficiency.<br /><br />
+    Requirements:<br />
+    Proven experience as a Full Stack MERN Developer with a strong portfolio.<br />
+    Solid understanding of project management principles.<br />
+    Proficiency in Tailwind CSS for UI development.<br />
+    Effective communication skills.<br />
+    Ability to work independently and collaboratively within a team.<br /><br />
+    Experience Review:<br />
+    Please share experiences on low code, react, tailwind applications you have built and user management journeys. <br /><br /><br /><b>Posted On</b>: November 29, 2023 18:37 UTC<br /><b>Category</b>: Full Stack Development<br /><b>Skills</b>:Git,     Node.js,     React,     MongoDB,     React Native,     Tailwind CSS,     Tailwind UI,     API Integration
+    <br /><b>Skills</b>:        Git,                     Node.js,                     React,                     MongoDB,        
+                 React Native,                     Tailwind CSS,                     Tailwind UI,                     API Integration            <br /><b>Country</b>: Canada
+    <br /><a href="https://www.upwork.com/jobs/Full-Stack-MERN-with-exp-with-Tailwind-React_%7E01aea69e6dc611ecf2?source=rss">click to apply</a>
+    ]]></content:encoded><pubDate>Wed, 29 Nov 2023 18:37:52 +0000</pubDate><guid>https://www.upwork.com/jobs/Full-Stack-MERN-with-exp-with-Tailwind-React_%7E01aea69e6dc611ecf2?source=rss</guid></item></channel></rss> how i get latest entry from this list or get notifide on every new entry 
